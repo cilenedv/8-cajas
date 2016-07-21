@@ -1,0 +1,20 @@
+div{
+	background-color:red;
+	width:100px;
+	height:100px;
+	margin:10px;
+	
+	}
+	.papa{
+		position:relative;
+		width:380px;
+		height:130px;
+		background-color:black;
+	}
+	.hijo{
+			display: inline-block;
+	}
+	.dos{
+			display: inline-block;
+	}
+
